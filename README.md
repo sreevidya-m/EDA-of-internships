@@ -76,3 +76,6 @@ c. 70.9% Internships provide Letter of Recommendation <br>
 d. Only 9.6% Internships provide Incentives <br>
 e. 18.8% Internships allow Informal Dress Code <br>
 f. 8.9% Internships provide Free Snacks and Bevarages<br></i><br>
+
+#
+Made by Sreevidya Moorthy
