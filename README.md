@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) Of Internships Data
 <br>
 Exploratory Data Analysis (EDA) is an approach to analyze the data so as to summarize its main characteristics, discover trends, patterns or anomalies in the data by using visualization techniques.
-<br>The project involved performing EDA on the Internship Dataset. <br><br>
+<br>The project was developed for 'DataThon' - a Data Science Hackathon organised by 'DataZen' at Somaiya Vidyavihar. The project involved performing EDA on the Internship Dataset. <br><br>
 <b>Data Pre-Processing:</b><br><br>
 For Data Preprocessing, the following steps were done:<br>
 1. Checking and eliminating duplicate records <br>
